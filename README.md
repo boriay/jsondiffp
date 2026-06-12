@@ -4,6 +4,8 @@
 
 By default, the CLI prints a grouped text diff. It can also print machine-readable JSON with `-j`.
 
+This project was built in a vibe coding workflow and then manually validated and refined.
+
 ## Features
 
 - Recursive JSON object and array comparison.
